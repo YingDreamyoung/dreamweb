@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/frame/addEmployee.jsp=UTF-8
+encoding//WebContent/frame/list.jsp=UTF-8
+encoding//WebContent/frame/listDep.jsp=UTF-8
+encoding//src/com/panlei/employee/action/DepartmentAction.java=UTF-8
